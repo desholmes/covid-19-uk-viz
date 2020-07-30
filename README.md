@@ -39,3 +39,4 @@ React app that consumes the [covid-19-uk-api.dholmes.co.uk](https://covid-19-uk-
 1. `make run-clean`: Combines `make clean`, `make build` and `make run` to force a new image build
 1. `make clean`: Removes the docker image
 1. `clean-dangling-images`: Removed dangling images
+
